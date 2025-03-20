@@ -6,8 +6,7 @@ An open-source Arduino-based infusion pump for precise fluid delivery, integrati
 
 ## 📷 Project Overview  
 
-![Infusion Pump Image](![IMG_8361](https://github.com/user-attachments/assets/89cb5f7e-79e6-4fb1-8fb9-fc403eea5954)
-)  
+(https://github.com/user-attachments/assets/89cb5f7e-79e6-4fb1-8fb9-fc403eea5954)
 
 🔹 **Microcontroller**: Arduino Uno  
 🔹 **Motor**: 28BYJ-48 Stepper Motor + ULN2003 Driver  
@@ -20,7 +19,7 @@ An open-source Arduino-based infusion pump for precise fluid delivery, integrati
 
 ## 📽️ Project Demo  
 
-🎥 [Watch the Project Video](https://github.com/user-attachments/assets/58160920-6e2d-4122-bb61-900850694a2a)
+(https://github.com/user-attachments/assets/58160920-6e2d-4122-bb61-900850694a2a)
 
 ---
 
@@ -52,18 +51,17 @@ An open-source Arduino-based infusion pump for precise fluid delivery, integrati
 - Motor Mount  
 - Tubing Holders  
 
-![3D Printed Parts](![df0fb89283f0d13eda466152fc568ad7](https://github.com/user-attachments/assets/77fe1b9e-8413-4d7d-9731-567f2c44fa22)
+![df0fb89283f0d13eda466152fc568ad7](https://github.com/user-attachments/assets/77fe1b9e-8413-4d7d-9731-567f2c44fa22)
 ![226a58613d376fa4b78dc78184a30f6c](https://github.com/user-attachments/assets/830a8e73-6864-48cf-8ae6-7e384dbf11cb)
 ![97c81709895de6bf37b88f17f79a40a1](https://github.com/user-attachments/assets/f73e4201-80be-4a38-8440-1d1437cd53eb)
 ![8ad86758e3ed1c3a325a0762bb7a03c6](https://github.com/user-attachments/assets/20515fba-fa86-4ba8-970d-d0d453ad47a5)
-)  
+
 
 ---
 
 ## 🔌 Circuit Diagram  
 
-![Circuit Diagram](![Circuit Design 2](https://github.com/user-attachments/assets/0a020810-ebf5-48b9-97df-891d326d2dcd)
-)  
+![Circuit Design 2](https://github.com/user-attachments/assets/0a020810-ebf5-48b9-97df-891d326d2dcd)
 
 ---
 
